@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca9dc8f0e610a940922040ed2f3ebec, type: 3}
+  m_Name: Cornellius
+  m_EditorClassIdentifier: 
+  charName: Cornellius
+  age: 61
+  hobby1: Spreading the gospel
+  hobby2: Fishing
+  hobby3: Singing
+  pet: none
+  favMedia: The Gospel
+  pfp: {fileID: 21300000, guid: 28d486ea12d9a564589986f6d8908487, type: 3}
+  compatibilityFriend1: 0
+  compatibilityFriend2: 0
+  compatibilityFriend3: 0
+  isSelected: 0

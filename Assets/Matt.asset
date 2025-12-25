@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca9dc8f0e610a940922040ed2f3ebec, type: 3}
+  m_Name: Matt
+  m_EditorClassIdentifier: 
+  charName: Matt
+  age: 29
+  hobby1: Fishing
+  hobby2: Sports betting
+  hobby3: Drinking beer with friends
+  pet: none
+  favMedia: Motivational Gym Music, The Godfather
+  pfp: {fileID: 21300000, guid: 02a4a9c93eee4f145adb6420b3ca8d5e, type: 3}
+  compatibilityFriend1: 0
+  compatibilityFriend2: 27
+  compatibilityFriend3: 0
+  isSelected: 0

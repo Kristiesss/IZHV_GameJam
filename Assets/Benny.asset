@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca9dc8f0e610a940922040ed2f3ebec, type: 3}
+  m_Name: Benny
+  m_EditorClassIdentifier: 
+  charName: Benny
+  age: 37
+  hobby1: Reading Minds
+  hobby2: Professional Monopoly Matches
+  hobby3: Sports Betting
+  pet: Tarantula
+  favMedia: Japanese Rock
+  pfp: {fileID: 21300000, guid: 1a1f180723a360847b6c6d18a300f88b, type: 3}
+  compatibilityFriend1: 0
+  compatibilityFriend2: 59
+  compatibilityFriend3: 47
+  isSelected: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca9dc8f0e610a940922040ed2f3ebec, type: 3}
+  m_Name: Ray
+  m_EditorClassIdentifier: 
+  charName: Ray
+  age: 23
+  hobby1: Reading Magical Scriptures
+  hobby2: Magic Wielding
+  hobby3: Learning Ancient Languages
+  pet: 5 cats
+  favMedia: Pop Harp Covers
+  pfp: {fileID: 21300000, guid: 9ed9465f05c1e874baaf061874b0d405, type: 3}
+  compatibilityFriend1: 35
+  compatibilityFriend2: 26
+  compatibilityFriend3: 100
+  isSelected: 0
